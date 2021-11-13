@@ -18306,7 +18306,8 @@ pre code {
 }
 
 /* Mobile screen */
-@media (max-width:340px) {
+/* @media (max-width:340px) { */
+@media (max-width:576px) {
 	.modal-body-shiftRegister {
 		position: relative;
 		flex: 1 1 auto;
